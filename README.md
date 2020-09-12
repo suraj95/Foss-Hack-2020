@@ -24,7 +24,7 @@ GUI widgets in OpenBCI are the mini tools that fit into the OpenBCI GUI’s inte
 
 [OpenBCI Widget Guide](https://docs.openbci.com/docs/06Software/01-OpenBCISoftware/GUIWidgets#custom-widget)
 
-[Analyzing a Deep Meditative State with OpenBCI](https://www.youtube.com/watch?v=zz4xVT-fhII&t=1s)
+[Video of EEG data from meditation session recorded on 30/10/2019](https://www.youtube.com/watch?v=zz4xVT-fhII&t=1s)
 
 
 
