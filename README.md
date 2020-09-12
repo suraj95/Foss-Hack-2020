@@ -16,8 +16,12 @@ What do Japanese artisans, engineers, Zen philosophy, and cuisine have in common
 
 At the root of all our thoughts, emotions and behaviours is the communication between neurons within our brains. Brainwaves are produced by synchronised electrical pulses from masses of neurons communicating with each other. Our brainwaves change according to what we’re doing and feeling. When slower Brainwaves are dominant, we feel slow, tired, sluggish or dreamy. The higher frequencies are dominant when we feel wired or hyper alert. By rule of thumb, anything that changes your perception changes your brainwaves— meditation or recreational drugs.
 
+GUI widgets in OpenBCI are the mini tools that fit into the OpenBCI GUI’s interface panes. Examples of GUI widgets include the Time Series, the FFT widget, the Networking widget, and so on. In the upper left-hand corner of every widget, there is a dropdown menu that lists all of the available widgets. If you click the dropdown and select a new widget from the dropdown, it will replace the current widget in that window. You can rearrange the layout of the widgets by clicking the “Layout” button in the upper right-hand side of the GUI. Examples include Time-Series, FFT Plot, Accelerometer, Head Plot etc. Our Nirvana application is implemented as a widget on top of OpenBCI GUI. 
 
 
+# Important links
+
+[OpenBCI Widget Guide](https://docs.openbci.com/docs/06Software/01-OpenBCISoftware/GUIWidgets#custom-widget)
 
 
 
