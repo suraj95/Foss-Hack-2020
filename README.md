@@ -18,7 +18,7 @@ At the root of all our thoughts, emotions and behaviours is the communication be
 
 GUI widgets in OpenBCI are the mini tools that fit into the OpenBCI GUI’s interface panes. Examples of GUI widgets include the Time Series, the FFT widget, the Networking widget, and so on. In the upper left-hand corner of every widget, there is a dropdown menu that lists all of the available widgets. If you click the dropdown and select a new widget from the dropdown, it will replace the current widget in that window. You can rearrange the layout of the widgets by clicking the “Layout” button in the upper right-hand side of the GUI. Examples include Time-Series, FFT Plot, Accelerometer, Head Plot, Band Power, EMG etc. **Our Nirvana application is implemented as a widget on top of OpenBCI GUI.** The OpenBCI GUI was built using Processing, a popular, Java-based creative coding framework. If you are interested in adding features or modifying the existing code, it is really easy to do so if you are familiar with Java. 
 
-![alt text](./images/brainwaves.png)
+![alt text](./images/processing.png)
 
 
 # Important links
