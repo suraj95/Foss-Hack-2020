@@ -22,9 +22,7 @@ At the root of all our thoughts, emotions and behaviours is the communication be
 
 ![alt text](./images/brainwaves.jpg)
 
-
-
-
+What I have done so far is set up the project directories, processing framework and scripts to convert EEG data format. My wiget template W_template.pde file so far has code directly copy-pasted from the Band Power widget. What I am trying to do is edit the file and extract the Beta waves from the EEG signal and perhaps convert it to a more intuitive form visualization, essentialy to mimic a user approaching a state of "enlightenment." I might as well take ideas from the [EMG widget](https://docs.openbci.com/docs/01GettingStarted/02-Biosensing-Setups/EMGSetup) in which each circle and box represents a channel. The circle and box fill up as the amplitude of the signal on that channel increases (unit in voltage).
 
 # Important links
 
