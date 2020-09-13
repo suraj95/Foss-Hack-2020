@@ -7,6 +7,7 @@
 //    Good luck! If you embark on this journey, please let us know. Your contributions are valuable to everyone!
 //
 //    Created by: Conor Russomanno, November 2016
+//    Modified by: Suraj Patil, September 2020
 //
 ///////////////////////////////////////////////////,
 
@@ -22,13 +23,13 @@ class W_template extends Widget {
         //This is the protocol for setting up dropdowns.
         //Note that these 3 dropdowns correspond to the 3 global functions below
         //You just need to make sure the "id" (the 1st String) has the same name as the corresponding function
-        addDropdown("Dropdown1", "Drop 1", Arrays.asList("A", "B"), 0);
+        addDropdown("Dropdown1", "Drop 1", Arrays.asList("A", "B"), 0); // number is default item
         addDropdown("Dropdown2", "Drop 2", Arrays.asList("C", "D", "E"), 1);
         addDropdown("Dropdown3", "Drop 3", Arrays.asList("F", "G", "H", "I"), 3);
 
-        widgetTemplateButton = new Button_obci (x + w/2, y + h/2, 200, navHeight, "Design Your Own Widget!", 12);
+        widgetTemplateButton = new Button_obci (x + w/2, y + h/2, 300, navHeight, "Widget for Nirvana application", 12);
         widgetTemplateButton.setFont(p4, 14);
-        widgetTemplateButton.setURL("https://openbci.github.io/Documentation/docs/06Software/01-OpenBCISoftware/GUIWidgets#custom-widget");
+        widgetTemplateButton.setURL("https://github.com/suraj95/Foss-Hack-2020");
     }
 
     void update(){
